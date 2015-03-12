@@ -1,0 +1,7 @@
+file b
+a
+b
+c
+d
+e.
+bye..

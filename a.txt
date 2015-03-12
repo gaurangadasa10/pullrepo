@@ -1,0 +1,5 @@
+file a
+hello
+all
+are 
+here.
